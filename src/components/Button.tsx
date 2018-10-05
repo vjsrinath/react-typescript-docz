@@ -1,5 +1,5 @@
 import React, { SFC } from 'react'
-import styled from 'react-emotion'
+import styled from 'styled-components'
 
 const scales = {
   small: `
